@@ -24,6 +24,7 @@ const SECTIONS = {
     8: 'poster',
     9: 'recap',
     10: 'use',
+    11: 'plan',
 }
 
 let REVERSE_SECTIONS = {}

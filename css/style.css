@@ -98,6 +98,10 @@
     max-height: 80vh;
     margin: -250px 0 0 10vw;
 }
+.img-plan {
+    max-height: 80vh;
+    margin: -250px 0 0 20vw;
+}
 
 /* for profile colors */
 .color-cynthia {
@@ -179,6 +183,10 @@
 .color-use {
     /* Light Blue */
     background-color: #B6DCE2;
+}
+.color-plan {
+    /* Light Blue */
+    background-color: #E5CE88;
 }
 
 /* for button text colors */
