@@ -22,6 +22,8 @@ const SECTIONS = {
     6: 'heuristic',
     7: 'hifi',
     8: 'poster',
+    9: 'recap',
+    10: 'use',
 }
 
 let REVERSE_SECTIONS = {}
