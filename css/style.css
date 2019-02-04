@@ -96,11 +96,13 @@
 }
 .img-center {
     max-height: 80vh;
-    margin: -250px 0 0 10vw;
+    margin: -63vh 0 0 18vw;
 }
-.img-plan {
-    max-height: 80vh;
-    margin: -250px 0 0 20vw;
+.video-center {
+    margin: -24vh 0 0 15vw;
+}
+.proto-center {
+    margin: -15vh 0 0 10vw;
 }
 
 /* for profile colors */
