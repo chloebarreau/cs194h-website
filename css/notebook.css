@@ -90,16 +90,28 @@ section {
     margin: -60px 0px 0px 0px;
 }
 
+.two-imgs {
+    position: relative;
+    height: 70vh;
+    width: 35vw;
+    margin-left: 15vw;
+    margin-top: -40vh;
+}
+
 .img-left {
     position: absolute;
-    top: 8%;
-    left: 25%;
+    max-width: 25vw;
+    max-height: 32vh;
+    position: absolute;
+    left: 12vw;
 }
 
 .img-right {
     position: absolute;
-    top: 48%;
-    left: 12%;
+    max-width: 25vw;
+    max-height: 32vh;
+    position: absolute;
+    top: 35vh;
 }
 
 .text {
