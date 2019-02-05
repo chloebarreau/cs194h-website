@@ -91,11 +91,15 @@ section {
 }
 
 .img-left {
-    margin: -62vh -30vw 0px 0px;
+    position: absolute;
+    top: 8%;
+    left: 25%;
 }
 
 .img-right {
-    margin: 3vh 2vw 0px 0px;
+    position: absolute;
+    top: 48%;
+    left: 12%;
 }
 
 .text {

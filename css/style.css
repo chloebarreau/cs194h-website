@@ -95,14 +95,20 @@
     max-height: 45vh;
 }
 .img-center {
+    position: absolute;
     max-height: 80vh;
-    margin: -63vh 0 0 18vw;
+    top: 8%;
+    left: 22%;
 }
 .video-center {
-    margin: -24vh 0 0 15vw;
+    position: absolute;
+    top: 45%;
+    left: 13%;
 }
 .proto-center {
-    margin: -15vh 0 0 10vw;
+    position: absolute;
+    top: 30%;
+    left: 12%;
 }
 
 /* for profile colors */
